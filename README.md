@@ -1,10 +1,4 @@
 # LendingLibrary2
 
 Overview
-This program is designed to read data from an external file and allow users to filter the data based on specified values. It provides a convenient way to extract and analyze specific subsets of the data without the need to manually search through the entire dataset.
-
-Features
-Read data from an external file (e.g., CSV, JSON, TXT) into memory.
-Filter the data based on user-specified criteria.
-Display the filtered data to the user.
-Allow users to save the filtered data to a new file for further analysis.
+This project is a Test-Driven Development (TDD) implementation of a Lending Library that allows users to manage books and borrow them using a Backpack. The Lending Library enables users to add, remove, search, and borrow books from the collection. The Backpack can hold a limited number of borrowed books, and users must return books to the library before borrowing more.
